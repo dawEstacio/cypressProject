@@ -1,4 +1,4 @@
-import { isObject, add } from "../../../instrumented/sum";
+import { isObject, add } from "../../../instrumented/utils/operations";
 
 describe("tests unitarios", () => {
   it("suma de dos números", () => {
